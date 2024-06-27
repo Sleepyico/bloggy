@@ -12,6 +12,9 @@ Here I will share the problems and solutions encountered by various technology s
 
 If you want to build a similar site, you can [Fork](https://github.com/sleepyico/bloggy/fork) this repository directly, or deploy it with one click through [Vercel](https://vercel.com/new/clone?repository-url=https://github.com/sleepyico/bloggy/tree/master&project-name=bloggy&repo-name=bloggy) .
 
+> [!NOTE]
+> For now, this blog is still in development, so some of the content might be missing or outdated. I hope I'll be able to update or fix it as soon as possible if there are any issues or updates. Thank you for your patience and understanding.
+
 ## ✨ Features
 
 - 💀 **Iconical** - Based on my portfolio, providing powerful document generation and blogging capabilities
@@ -95,20 +98,27 @@ color: # color (optional)(changes the color for SEO and etc...)
 
 - [Laith](https://github.com/sleepyico)
 
-## ☕ Support
+## ☕ Contribution
 
-If you like this project, please consider supporting me by:
+I have started this project to gain experience in building actually useful things for the community, so I'm always looking for ways to improve it. With your help, I can make this project better and more useful for everyone and I am open to see your solutions or changes to my project that you think it could have been better. 
+
+Thank you for your support! If you like this project, please consider contributing to it by:
 
 - 🌟 Starring this project
+- 🐞 Creating issues and pull requests
 - 💬 Commenting on issues and pull requests
-- 🐦 Follow me on [Twitter](https://twitter.com/sleepyiconical)
+- 🗣️ Sharing your thoughts on discussions
+- 💡 Suggesting new features
+- 📝 Writing documentation
+- 🔧 Refactor what you think could have been approached better
 
-## 💸 Sponsor
+## 💸 Sponsor or Support me
 
 If you want to support this project, you can sponsor me on:
-- [Ko-Fi](https://ko-fi.com/iconical)
-- [Github Sponsors](https://github.com/sponsors/sleepyico) 
-- [Iconical/donate](https://iconical.dev/donate)
+- Membership on [Ko-Fi](https://ko-fi.com/iconical)
+- Sponsor me on [Github](https://github.com/sponsors/sleepyico) 
+- Follow me on [Twitter](https://twitter.com/sleepyiconical)
+- Tip to what your heart desires on [Iconical/donate](https://iconical.dev/donate)
 
 ## 📝 License
 
