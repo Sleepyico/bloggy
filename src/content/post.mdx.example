@@ -1,7 +1,7 @@
 ---
 title: # title
 description: # description
-banner: # /blog/yourimage.png in public  folder
+banner: # /posts/yourimage.png in public  folder
 tags:
   - # tag 1 
   - # tag 2

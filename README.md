@@ -58,12 +58,38 @@ Construct
 bun build
 ```
 
+## 📄 Posts 
+
+Add your files posts in the `src/content` folder, and name them with the following format: `post.mdx.example`
+
+```mdx
+---
+title: # title
+description: # description
+banner: # /posts/yourimage.png in public  folder
+tags:
+  - # tag 1 
+  - # tag 2
+  - # tag 3
+related:
+  - # related post slug aka (file name)
+date: # date (year-month-day hour:minute:second)
+published: # boolean (optional)
+featured: # boolean (optional)
+indicatorsHidden: # boolean (optional)
+special: # boolean (optional)(has no use for now)
+color: # color (optional)(changes the color for SEO and etc...)
+---
+
+# your post content here
+```
+
 ## 📷 Screenshots
 
 <img width="1471" alt="Website UI" src="./.github/images/Bloggy.png">
-<img width="600" alt="Website UI" src="./.github/images/Bloggy-Demo.png">
-<img width="600" alt="Website UI" src="./.github/images/Bloggy-Demo-1.png">
-<img width="600" alt="Website UI" src="./.github/images/Bloggy-Demo-2.png">
+<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo.png">
+<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-1.png">
+<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-2.png">
 
 ## 🧑‍💻 Author
 
