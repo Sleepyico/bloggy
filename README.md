@@ -93,6 +93,10 @@ color: # color (optional)(changes the color for SEO and etc...)
 <img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo.png">
 <img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-1.png">
 <img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-2.png">
+<div align="center" width="100%">
+  <img width="300" alt="Website UI" src="./.github/images/Mobile-Insights.png">
+  <img width="300" alt="Website UI" src="./.github/images/Desktop-Insights.png">
+</div>
 
 ## 🧑‍💻 Author
 
