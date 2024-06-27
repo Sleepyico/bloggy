@@ -1,0 +1,19 @@
+---
+title: # title
+description: # description
+banner: # /blog/yourimage.png in public  folder
+tags:
+  - # tag 1 
+  - # tag 2
+  - # tag 3
+related:
+  - # related post slug aka (file name)
+date: # date (year-month-day hour:minute:second)
+published: # boolean (optional)
+featured: # boolean (optional)
+indicatorsHidden: # boolean (optional)
+special: # boolean (optional)(has no use for now)
+color: # color (optional)(changes the color for SEO and etc...)
+---
+
+# your post content here
