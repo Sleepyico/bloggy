@@ -8,6 +8,8 @@ Bloggy - Your personal blog
 
 ## 👋 Introduction
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6b9f600e4a7040b0893c026a24e4b55d)](https://app.codacy.com/gh/Sleepyico/bloggy?utm_source=github.com&utm_medium=referral&utm_content=Sleepyico/bloggy&utm_campaign=Badge_Grade)
+
 Here I will share the problems and solutions encountered by various technology stacks, let you know the latest technology stack and how to apply it in actual development, and I hope my development experience will inspire you.
 
 If you want to build a similar site, you can [Fork](https://github.com/sleepyico/bloggy/fork) this repository directly, or deploy it with one click through [Vercel](https://vercel.com/new/clone?repository-url=https://github.com/sleepyico/bloggy/tree/master&project-name=bloggy&repo-name=bloggy) .
