@@ -1,5 +1,13 @@
 <h2 align="center">
 Bloggy - Your personal blog
+<div align="center" style="padding-top: 10px;">
+  <a href="https://app.codacy.com/gh/Sleepyico/bloggy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/7b7c79dec25948c69971d7d3befcff5b"/></a>
+  <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/sleepyico/bloggy">
+  <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/sleepyico/bloggy">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/sleepyico/bloggy">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepyico/bloggy?style=flat">
+ <img alt="GitHub forks" src="https://img.shields.io/github/forks/sleepyico/bloggy?style=flat">
+</div>
 </h2>
 <p align="center">
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/sleepyico/bloggy/tree/master&project-name=bloggy&repo-name=bloggy" rel="nofollow"><img src="https://vercel.com/button"></a>
@@ -89,11 +97,11 @@ color: # color (optional)(changes the color for SEO and etc...)
 
 ## 📷 Screenshots
 
-<img width="1471" alt="Website UI" src="./.github/images/Bloggy.png">
-<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo.png">
-<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-1.png">
-<img width="1471" alt="Website UI" src="./.github/images/Bloggy-Demo-2.png">
 <div align="center" width="100%">
+  <img width="400" alt="Website UI" src="./.github/images/Bloggy.png">
+  <img width="400" alt="Website UI" src="./.github/images/Bloggy-Demo.png">
+  <img width="400" alt="Website UI" src="./.github/images/Bloggy-Demo-1.png">
+  <img width="400" alt="Website UI" src="./.github/images/Bloggy-Demo-2.png">
   <img width="300" alt="Website UI" src="./.github/images/Mobile-Insights.png">
   <img width="300" alt="Website UI" src="./.github/images/Desktop-Insights.png">
 </div>

@@ -38,3 +38,5 @@ next-env.d.ts
 # extra
 .velite
 .vscode
+.env
+.codacy-coverage
